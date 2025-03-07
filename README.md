@@ -53,31 +53,31 @@ Below are some screenshots of the system:
 ![Login](images/LOGIN.png)
 
 ### 2. Dashboard
-![Dashboard](images/2.DASHBOARD.png)
+![Dashboard](images/DASHBOARD.png)
 
 ### 3. Vehicle Entry
-![Vehicle Entry](images/3.VEHICLEENTRY.png)
+![Vehicle Entry](images/VEHICLEENTRY.png)
 
 ### 4. Entry Token
-![Entry Token](images/4.ENTRYTOKEN.png)
+![Entry Token](images/ENTRYTOKEN.png)
 
 ### 5. Vehicle Search
-![Vehicle Search](images/5.VEHICLESEARCH.png)
+![Vehicle Search](images/VEHICLESEARCH.png)
 
 ### 6. Vehicle Exit
-![Vehicle Exit](images/6.VEHICLEEXIT.png)
+![Vehicle Exit](images/VEHICLEEXIT.png)
 
 ### 7. Parking Receipt
-![Parking Receipt](images/7.PARKINGRECEIPT.png)
+![Parking Receipt](images/PARKINGRECEIPT.png)
 
 ### 8. Floor Manager
-![Floor Manager](images/8.FLOORMANAGER.png)
+![Floor Manager](images/FLOORMANAGER.png)
 
 ### 9. Reset Password
-![Reset Password](images/9.RESETPASSWORD.png)
+![Reset Password](images/RESETPASSWORD.png)
 
 ### 10. Add New User
-![Add New User](images/10.ADDNEWUSER.png)
+![Add New User](images/ADDNEWUSER.png)
 
 ## License
 This project is licensed under the **MIT License**.
