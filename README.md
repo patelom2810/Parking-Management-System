@@ -50,34 +50,34 @@ The **Parking Management System** (PMSF) is an offline application developed in 
 Below are some screenshots of the system:
 
 ### 1. Login
-![Login](images/LOGIN.png)
+![Login](images/1.LOGIN.png)
 
 ### 2. Dashboard
-![Dashboard](images/DASHBOARD.png)
+![Dashboard](images/2.DASHBOARD.png)
 
 ### 3. Vehicle Entry
-![Vehicle Entry](images/VEHICLE_ENTRY.png)
+![Vehicle Entry](images/3.VEHICLEENTRY.png)
 
 ### 4. Entry Token
-![Entry Token](images/ENTRY_TOKEN.png)
+![Entry Token](images/4.ENTRYTOKEN.png)
 
 ### 5. Vehicle Search
-![Vehicle Search](images/VEHICLE_SEARCH.png)
+![Vehicle Search](images/5.VEHICLESEARCH.png)
 
 ### 6. Vehicle Exit
-![Vehicle Exit](images/VEHICLE_EXIT.png)
+![Vehicle Exit](images/6.VEHICLEEXIT.png)
 
 ### 7. Parking Receipt
-![Parking Receipt](images/PARKING_RECEIPT.png)
+![Parking Receipt](images/7.PARKINGRECEIPT.png)
 
 ### 8. Floor Manager
-![Floor Manager](images/FLOOR_MANAGER.png)
+![Floor Manager](images/8.FLOORMANAGER.png)
 
 ### 9. Reset Password
-![Reset Password](images/RESET_PASSWORD.png)
+![Reset Password](images/9.RESETPASSWORD.png)
 
 ### 10. Add New User
-![Add New User](images/ADD_NEW_USER.png)
+![Add New User](images/10.ADDNEWUSER.png)
 
 ## License
 This project is licensed under the **MIT License**.
