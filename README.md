@@ -50,7 +50,7 @@ The **Parking Management System** (PMSF) is an offline application developed in 
 Below are some screenshots of the system:
 
 ### 1. Login
-![Login](images/1.LOGIN.png)
+![Login](images/LOGIN.png)
 
 ### 2. Dashboard
 ![Dashboard](images/2.DASHBOARD.png)
